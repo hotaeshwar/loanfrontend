@@ -16,7 +16,7 @@ import {
 } from 'react-icons/fa';
 import Dashboard from './components/Dashboard';
 
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'https://app.accountsonline.info';
 
 // API Service
 const apiService = {
